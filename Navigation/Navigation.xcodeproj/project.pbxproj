@@ -19,8 +19,22 @@
 		27156F6818B76AF50053A99C /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 27156F5018B76AF50053A99C /* UIKit.framework */; };
 		27156F7018B76AF50053A99C /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 27156F6E18B76AF50053A99C /* InfoPlist.strings */; };
 		27156F7218B76AF50053A99C /* NavigationTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 27156F7118B76AF50053A99C /* NavigationTests.m */; };
-		27156F7D18BA89430053A99C /* LetraAViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 27156F7C18BA89430053A99C /* LetraAViewController.m */; };
-		27156F8018BA8B210053A99C /* LetraBViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 27156F7F18BA8B210053A99C /* LetraBViewController.m */; };
+		93495C3D18BD347A009187CB /* arca.png in Resources */ = {isa = PBXBuildFile; fileRef = 93495C2118BD3479009187CB /* arca.png */; };
+		93495C3E18BD347A009187CB /* dod.png in Resources */ = {isa = PBXBuildFile; fileRef = 93495C2218BD3479009187CB /* dod.png */; };
+		93495C3F18BD347A009187CB /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 93495C2418BD3479009187CB /* InfoPlist.strings */; };
+		93495C4018BD347A009187CB /* entei.png in Resources */ = {isa = PBXBuildFile; fileRef = 93495C2618BD3479009187CB /* entei.png */; };
+		93495C4118BD347A009187CB /* forr.png in Resources */ = {isa = PBXBuildFile; fileRef = 93495C2718BD3479009187CB /* forr.png */; };
+		93495C4218BD347A009187CB /* Golem.png in Resources */ = {isa = PBXBuildFile; fileRef = 93495C2818BD3479009187CB /* Golem.png */; };
+		93495C4318BD347A009187CB /* hit.png in Resources */ = {isa = PBXBuildFile; fileRef = 93495C2918BD3479009187CB /* hit.png */; };
+		93495C4418BD347A009187CB /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 93495C2A18BD3479009187CB /* Images.xcassets */; };
+		93495C4518BD347A009187CB /* LetraAViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 93495C2C18BD3479009187CB /* LetraAViewController.m */; };
+		93495C4618BD347A009187CB /* LetraBViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 93495C2E18BD347A009187CB /* LetraBViewController.m */; };
+		93495C4718BD347A009187CB /* LetraCViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 93495C3018BD347A009187CB /* LetraCViewController.m */; };
+		93495C4818BD347A009187CB /* LetraDViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 93495C3218BD347A009187CB /* LetraDViewController.m */; };
+		93495C4918BD347A009187CB /* LetraEViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 93495C3418BD347A009187CB /* LetraEViewController.m */; };
+		93495C4A18BD347A009187CB /* LetraFViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 93495C3618BD347A009187CB /* LetraFViewController.m */; };
+		93495C4B18BD347A009187CB /* LetraGViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 93495C3818BD347A009187CB /* LetraGViewController.m */; };
+		93495C4C18BD347A009187CB /* LetraHViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 93495C3A18BD347A009187CB /* LetraHViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -50,10 +64,30 @@
 		27156F6D18B76AF50053A99C /* NavigationTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "NavigationTests-Info.plist"; sourceTree = "<group>"; };
 		27156F6F18B76AF50053A99C /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		27156F7118B76AF50053A99C /* NavigationTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = NavigationTests.m; sourceTree = "<group>"; };
-		27156F7B18BA89430053A99C /* LetraAViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LetraAViewController.h; sourceTree = "<group>"; };
-		27156F7C18BA89430053A99C /* LetraAViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LetraAViewController.m; sourceTree = "<group>"; };
-		27156F7E18BA8B210053A99C /* LetraBViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LetraBViewController.h; sourceTree = "<group>"; };
-		27156F7F18BA8B210053A99C /* LetraBViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LetraBViewController.m; sourceTree = "<group>"; };
+		93495C2118BD3479009187CB /* arca.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = arca.png; sourceTree = "<group>"; };
+		93495C2218BD3479009187CB /* dod.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dod.png; sourceTree = "<group>"; };
+		93495C2518BD3479009187CB /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = InfoPlist.strings; sourceTree = "<group>"; };
+		93495C2618BD3479009187CB /* entei.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = entei.png; sourceTree = "<group>"; };
+		93495C2718BD3479009187CB /* forr.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = forr.png; sourceTree = "<group>"; };
+		93495C2818BD3479009187CB /* Golem.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Golem.png; sourceTree = "<group>"; };
+		93495C2918BD3479009187CB /* hit.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = hit.png; sourceTree = "<group>"; };
+		93495C2A18BD3479009187CB /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		93495C2B18BD3479009187CB /* LetraAViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LetraAViewController.h; sourceTree = "<group>"; };
+		93495C2C18BD3479009187CB /* LetraAViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LetraAViewController.m; sourceTree = "<group>"; };
+		93495C2D18BD3479009187CB /* LetraBViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LetraBViewController.h; sourceTree = "<group>"; };
+		93495C2E18BD347A009187CB /* LetraBViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LetraBViewController.m; sourceTree = "<group>"; };
+		93495C2F18BD347A009187CB /* LetraCViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LetraCViewController.h; sourceTree = "<group>"; };
+		93495C3018BD347A009187CB /* LetraCViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LetraCViewController.m; sourceTree = "<group>"; };
+		93495C3118BD347A009187CB /* LetraDViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LetraDViewController.h; sourceTree = "<group>"; };
+		93495C3218BD347A009187CB /* LetraDViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LetraDViewController.m; sourceTree = "<group>"; };
+		93495C3318BD347A009187CB /* LetraEViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LetraEViewController.h; sourceTree = "<group>"; };
+		93495C3418BD347A009187CB /* LetraEViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LetraEViewController.m; sourceTree = "<group>"; };
+		93495C3518BD347A009187CB /* LetraFViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LetraFViewController.h; sourceTree = "<group>"; };
+		93495C3618BD347A009187CB /* LetraFViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LetraFViewController.m; sourceTree = "<group>"; };
+		93495C3718BD347A009187CB /* LetraGViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LetraGViewController.h; sourceTree = "<group>"; };
+		93495C3818BD347A009187CB /* LetraGViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LetraGViewController.m; sourceTree = "<group>"; };
+		93495C3918BD347A009187CB /* LetraHViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LetraHViewController.h; sourceTree = "<group>"; };
+		93495C3A18BD347A009187CB /* LetraHViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LetraHViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +117,30 @@
 		27156F4018B76AF50053A99C = {
 			isa = PBXGroup;
 			children = (
+				93495C2118BD3479009187CB /* arca.png */,
+				93495C2218BD3479009187CB /* dod.png */,
+				93495C2318BD3479009187CB /* en.lproj */,
+				93495C2618BD3479009187CB /* entei.png */,
+				93495C2718BD3479009187CB /* forr.png */,
+				93495C2818BD3479009187CB /* Golem.png */,
+				93495C2918BD3479009187CB /* hit.png */,
+				93495C2A18BD3479009187CB /* Images.xcassets */,
+				93495C2B18BD3479009187CB /* LetraAViewController.h */,
+				93495C2C18BD3479009187CB /* LetraAViewController.m */,
+				93495C2D18BD3479009187CB /* LetraBViewController.h */,
+				93495C2E18BD347A009187CB /* LetraBViewController.m */,
+				93495C2F18BD347A009187CB /* LetraCViewController.h */,
+				93495C3018BD347A009187CB /* LetraCViewController.m */,
+				93495C3118BD347A009187CB /* LetraDViewController.h */,
+				93495C3218BD347A009187CB /* LetraDViewController.m */,
+				93495C3318BD347A009187CB /* LetraEViewController.h */,
+				93495C3418BD347A009187CB /* LetraEViewController.m */,
+				93495C3518BD347A009187CB /* LetraFViewController.h */,
+				93495C3618BD347A009187CB /* LetraFViewController.m */,
+				93495C3718BD347A009187CB /* LetraGViewController.h */,
+				93495C3818BD347A009187CB /* LetraGViewController.m */,
+				93495C3918BD347A009187CB /* LetraHViewController.h */,
+				93495C3A18BD347A009187CB /* LetraHViewController.m */,
 				27156F5218B76AF50053A99C /* Navigation */,
 				27156F6B18B76AF50053A99C /* NavigationTests */,
 				27156F4B18B76AF50053A99C /* Frameworks */,
@@ -117,10 +175,6 @@
 				27156F5C18B76AF50053A99C /* MackenzieAppDelegate.m */,
 				27156F5E18B76AF50053A99C /* Images.xcassets */,
 				27156F5318B76AF50053A99C /* Supporting Files */,
-				27156F7B18BA89430053A99C /* LetraAViewController.h */,
-				27156F7C18BA89430053A99C /* LetraAViewController.m */,
-				27156F7E18BA8B210053A99C /* LetraBViewController.h */,
-				27156F7F18BA8B210053A99C /* LetraBViewController.m */,
 			);
 			path = Navigation;
 			sourceTree = "<group>";
@@ -152,6 +206,14 @@
 				27156F6E18B76AF50053A99C /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		93495C2318BD3479009187CB /* en.lproj */ = {
+			isa = PBXGroup;
+			children = (
+				93495C2418BD3479009187CB /* InfoPlist.strings */,
+			);
+			path = en.lproj;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -230,8 +292,16 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				93495C4318BD347A009187CB /* hit.png in Resources */,
+				93495C4418BD347A009187CB /* Images.xcassets in Resources */,
+				93495C4218BD347A009187CB /* Golem.png in Resources */,
 				27156F5718B76AF50053A99C /* InfoPlist.strings in Resources */,
+				93495C4118BD347A009187CB /* forr.png in Resources */,
+				93495C3E18BD347A009187CB /* dod.png in Resources */,
 				27156F5F18B76AF50053A99C /* Images.xcassets in Resources */,
+				93495C3D18BD347A009187CB /* arca.png in Resources */,
+				93495C3F18BD347A009187CB /* InfoPlist.strings in Resources */,
+				93495C4018BD347A009187CB /* entei.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -251,9 +321,15 @@
 			buildActionMask = 2147483647;
 			files = (
 				27156F5D18B76AF50053A99C /* MackenzieAppDelegate.m in Sources */,
-				27156F7D18BA89430053A99C /* LetraAViewController.m in Sources */,
-				27156F8018BA8B210053A99C /* LetraBViewController.m in Sources */,
+				93495C4918BD347A009187CB /* LetraEViewController.m in Sources */,
+				93495C4C18BD347A009187CB /* LetraHViewController.m in Sources */,
+				93495C4718BD347A009187CB /* LetraCViewController.m in Sources */,
+				93495C4818BD347A009187CB /* LetraDViewController.m in Sources */,
+				93495C4518BD347A009187CB /* LetraAViewController.m in Sources */,
+				93495C4618BD347A009187CB /* LetraBViewController.m in Sources */,
+				93495C4A18BD347A009187CB /* LetraFViewController.m in Sources */,
 				27156F5918B76AF50053A99C /* main.m in Sources */,
+				93495C4B18BD347A009187CB /* LetraGViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -288,6 +364,14 @@
 			isa = PBXVariantGroup;
 			children = (
 				27156F6F18B76AF50053A99C /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		93495C2418BD3479009187CB /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				93495C2518BD3479009187CB /* en */,
 			);
 			name = InfoPlist.strings;
 			sourceTree = "<group>";
@@ -454,6 +538,7 @@
 				27156F7718B76AF50053A99C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		27156F7818B76AF50053A99C /* Build configuration list for PBXNativeTarget "NavigationTests" */ = {
 			isa = XCConfigurationList;
@@ -462,6 +547,7 @@
 				27156F7A18B76AF50053A99C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
